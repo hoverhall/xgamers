@@ -1,0 +1,1 @@
+import img_manager from './assets/img_manager';
